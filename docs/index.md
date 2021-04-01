@@ -1,89 +1,80 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Preston's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Preston Millward
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="mil18037@byui.edu">mil18037@byui.edu</a>
+| <a href="https://display-of-my-projects.glitch.me/">Project Site</a>
+| <a href="https://www.linkedin.com/in/preston-millward/">LinkedIn</a>
+| <a href="https://github.com/millieTime">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2020-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
+- Bachelor of Computer Science with 4.0 GPA
 
 ## Related Experience
 
-### Internships
+### Android Development
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2018 - July 2018`
+__<a href="https://moveitmaththesource.com/">Move It Math</a>__, Freelance App Developer
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Developed a mobile app for elementary students to practice math facts.
+- Used Java in Android Studio and Gradle to produce a publishable APK.
+- Communicated with client weekly if not daily to receive feedback and implement new functionality.
+- Achieved 100% of client's requests before deadlines through productive planning.
 
-### Data Science Lead
+`August 2017 - April 2018`
+__<a href="https://ahninnovationaward.com/Documents/2018_AH_Nickless_Innovation_Award_winners.pdf">AH Nickless Innovation Award Competition</a>__, Team Lead App Developer
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Designed and built an app to detect when users were in danger and contact local security.
+- Learned Java in Android Studio to build an android application, and began translating it to Swift.
+- Leveraged geofencing to mitigate false alarms and auto-detect nearest authorities.
+- Won first place and a total of $40,000
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Python Development
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`February 2021`
+__<a href="https://byuiscroll.org/byu-idahos-first-hack-week/">BYUI Hack Week 2021</a>__
+Python Web App Developer
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Created a Web App for generating music based on songs the user selected.
+- Learned Python Flask to showcase a Tensor Flow Generative Adversarial Neural Network using Spotify API to generate similar music.
+- Won most creative out of 30 teams.
 
-### Data Science Consulting Team
+### Web Development
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`January 2018 - January 2021`
+Solo JavaScript Developer
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Designed an <a href="https://display-of-my-projects.glitch.me/SuperHex.html">audio visualizer</a> using the Web Audio API and canvas element.
+- Crafted a <a href="https://display-of-my-projects.glitch.me/SuperHex.html">rhythm game </a> utilizing CSS, HTML, and JavaScript.
+- Implemented SoundCloud Widgets and Cross-Origin Resource Sharing guidelines in interacting with external domains.
+- Profiled and optimized scripts to decrease memory usage by 50% and load times by 20%.
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`January - April 2021`
+__Data Science TA__, BYUI
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`May - September 2020`
+__Clerk Cashier__, Meijer
+
+
+`July 2018 - April 2020`
+__Service Missionary__, Fort Worth, Texas
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
